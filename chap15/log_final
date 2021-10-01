@@ -1,0 +1,4 @@
+ls: cannot access 'badfile': No such file or directory
+ls: cannot access 'badfile2': No such file or directory
+-rw-rw-r-- 1 nhadd nhadd  47 Thg 10  1 23:30 testfile
+-rw-rw-r-- 1 nhadd nhadd 217 Thg 10  1 23:32 testfile2

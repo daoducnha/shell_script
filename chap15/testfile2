@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x 2 nhadd nhadd 4096 Thg 10  1 23:32 .
+drwxrwxr-x 9 nhadd nhadd 4096 Thg 10  1 23:25 ..
+-rw-rw-r-- 1 nhadd nhadd   47 Thg 10  1 23:30 testfile
+-rw-rw-r-- 1 nhadd nhadd    0 Thg 10  1 23:32 testfile2
